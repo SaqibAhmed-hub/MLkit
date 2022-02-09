@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraXApp</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="text_detect">Text Detect</string>
+    <string name="face_detect">Face Detect</string>
+    <string name="object_detect">Object Detect</string>
+</resources>
